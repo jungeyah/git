@@ -1,6 +1,4 @@
 # git
 
-# gmail edit test4
-# naver edit test4
-# gmail edit test3
-# naver edit test3
+# gmail edit test6
+# naver edit test6
