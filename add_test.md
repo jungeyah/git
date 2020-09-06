@@ -1,5 +1,5 @@
 # git
 
-# gmail edit test7
-# naver edit test8ㄹㅇㅀㅇㅀ ddddd
+# gmail 1
+# naver 2
 
